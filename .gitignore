@@ -1,0 +1,6 @@
+*~
+.vagrant/
+berks-cookbooks/
+data_bags/
+revision
+roles/

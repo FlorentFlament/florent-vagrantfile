@@ -1,0 +1,12 @@
+{
+  "name": "dev_box",
+  "chef_type": "role",
+  "json_class": "Chef::Role",
+  "run_list": [
+    "recipe[florent_base]",
+    "recipe[florent_dev]"
+  ],
+  "default_attributes": {
+    "tz": "Europe/Paris"
+  }
+}

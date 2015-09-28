@@ -1,0 +1,36 @@
+{
+  "name": "florent_dev",
+  "description": "Florent's Development cookbook",
+  "long_description": "Cookbook for installing Florent's development environment\n",
+  "maintainer": "Florent Flament",
+  "maintainer_email": "contact@florentflament.com",
+  "license": "All rights reserved",
+  "platforms": {
+  },
+  "dependencies": {
+    "apt": ">= 0.0.0",
+    "chef-dk": ">= 0.0.0",
+    "timezone-ii": ">= 0.0.0",
+    "users-files": ">= 0.0.0",
+    "vagrant": ">= 0.0.0"
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": ""
+}

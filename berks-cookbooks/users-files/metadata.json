@@ -1,0 +1,31 @@
+{
+  "name": "users-files",
+  "description": "Florent's Development cookbook",
+  "long_description": "users_files cookbook\n====================\n\nThis cookbook allows dropping custom users configuration files on a\nnode.\n",
+  "maintainer": "Florent Flament",
+  "maintainer_email": "contact@florentflament.com",
+  "license": "All rights reserved",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": ""
+}
